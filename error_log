@@ -1,0 +1,7 @@
+[14-May-2018 06:41:58 Etc/GMT] PHP Fatal error:  Call to undefined method DataModel::Userauth() in /home/angayt/public_html/application/controllers/Home.php on line 105
+[15-May-2018 05:00:10 Etc/GMT] PHP Fatal error:  Call to undefined method DataModel::authenti() in /home/angayt/public_html/application/controllers/AdminPanel.php on line 48
+[15-May-2018 05:00:18 Etc/GMT] PHP Fatal error:  Call to undefined method DataModel::authenti() in /home/angayt/public_html/application/controllers/AdminPanel.php on line 48
+[15-May-2018 05:05:23 Etc/GMT] PHP Fatal error:  Call to undefined method DataModel::authenti() in /home/angayt/public_html/application/controllers/AdminPanel.php on line 48
+[15-May-2018 05:06:15 Etc/GMT] PHP Fatal error:  Call to undefined method DataModel::authenti() in /home/angayt/public_html/application/controllers/AdminPanel.php on line 48
+[15-May-2018 10:24:08 Etc/GMT] PHP Fatal error:  Call to undefined method DataModel::authenti() in /home/angayt/public_html/application/controllers/AdminPanel.php on line 48
+[15-May-2018 10:34:07 Etc/GMT] PHP Fatal error:  Call to undefined method DataModel::authenti() in /home/angayt/public_html/application/controllers/AdminPanel.php on line 48
